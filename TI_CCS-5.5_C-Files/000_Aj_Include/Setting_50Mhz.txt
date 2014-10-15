@@ -1,0 +1,25 @@
+Setting the default frequency to 50Mhz
+
+In order to avoid the silicon-errata error in the first ADC sample at max sampling rate
+I am operating the 28027 device at 50MHz and not 60MHz as would be the default
+The recommendation is to have the ADC at half the rate but I am using the clock 50MHz instead og 60MHz
+This seems to work
+
+50 Mhz selected //C:\ti\controlSUITE\device_support\f2802x\v200\f2802x_common\include\F2802x_Examples.h
+
+Changes made in three places:
+
+//#define DSP28_PLLCR   12    // Uncomment for 60 MHz devices [60 MHz = (10MHz * 12)/2]
+//#define DSP28_PLLCR   11
+#define DSP28_PLLCR   10      // Uncomment for 50 Mhz devices [50 Mhz = (10MHz * 10)/2]  //Set by Ajoy as Default for Scope Project
+
+
+//#define CPU_RATE   16.667L   // for a 60MHz CPU clock speed (SYSCLKOUT)
+#define CPU_RATE   20.000L   // for a 50MHz CPU clock speed  (SYSCLKOUT)  //Set by Ajoy for Scope Project
+//#define CPU_RATE   25.000L   // for a 40MHz CPU clock speed  (SYSCLKOUT)
+
+
+#if (DSP28_28026PT||DSP28_28026DA||DSP28_28027PT||DSP28_28027DA)    // 28026||28027 devices only
+  #define CPU_FRQ_60MHZ    0//1     // 60 Mhz CPU Freq (10 MHz input clock)
+  #define CPU_FRQ_50MHZ    1//0     // Changed by Ajoy for Scope project
+  #define CPU_FRQ_40MHZ    0

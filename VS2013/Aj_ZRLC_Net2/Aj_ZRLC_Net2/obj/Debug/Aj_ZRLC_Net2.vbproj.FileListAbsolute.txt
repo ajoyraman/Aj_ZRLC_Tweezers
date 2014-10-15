@@ -1,0 +1,17 @@
+D:\ZRLC_Instructable\VS2013\Aj_ZRLC_Net2\Aj_ZRLC_Net2\bin\Debug\Aj_ZRLC_Net2.exe.config
+D:\ZRLC_Instructable\VS2013\Aj_ZRLC_Net2\Aj_ZRLC_Net2\bin\Debug\Aj_ZRLC_Net2.exe
+D:\ZRLC_Instructable\VS2013\Aj_ZRLC_Net2\Aj_ZRLC_Net2\bin\Debug\Aj_ZRLC_Net2.pdb
+D:\ZRLC_Instructable\VS2013\Aj_ZRLC_Net2\Aj_ZRLC_Net2\bin\Debug\Aj_ZRLC_Net2.xml
+D:\ZRLC_Instructable\VS2013\Aj_ZRLC_Net2\Aj_ZRLC_Net2\bin\Debug\complex.dll
+D:\ZRLC_Instructable\VS2013\Aj_ZRLC_Net2\Aj_ZRLC_Net2\bin\Debug\ZedGraph.dll
+D:\ZRLC_Instructable\VS2013\Aj_ZRLC_Net2\Aj_ZRLC_Net2\obj\Debug\Aj_ZRLC_Net2.vbprojResolveAssemblyReference.cache
+D:\ZRLC_Instructable\VS2013\Aj_ZRLC_Net2\Aj_ZRLC_Net2\obj\Debug\Aj_ZRLC_Net2.Aj_ZRLC_Form1.resources
+D:\ZRLC_Instructable\VS2013\Aj_ZRLC_Net2\Aj_ZRLC_Net2\obj\Debug\Aj_ZRLC_Net2.Resources.resources
+D:\ZRLC_Instructable\VS2013\Aj_ZRLC_Net2\Aj_ZRLC_Net2\obj\Debug\Aj_ZRLC_Net2.vbproj.GenerateResource.Cache
+D:\ZRLC_Instructable\VS2013\Aj_ZRLC_Net2\Aj_ZRLC_Net2\obj\Debug\Aj_ZRLC_Net2.exe
+D:\ZRLC_Instructable\VS2013\Aj_ZRLC_Net2\Aj_ZRLC_Net2\obj\Debug\Aj_ZRLC_Net2.xml
+D:\ZRLC_Instructable\VS2013\Aj_ZRLC_Net2\Aj_ZRLC_Net2\obj\Debug\Aj_ZRLC_Net2.pdb
+D:\ZRLC_Instructable\Aj_ZRLC_Tweezers\VS2013\Aj_ZRLC_Net2\Aj_ZRLC_Net2\bin\Debug\Aj_ZRLC_Net2.exe.config
+D:\ZRLC_Instructable\Aj_ZRLC_Tweezers\VS2013\Aj_ZRLC_Net2\Aj_ZRLC_Net2\obj\Debug\Aj_ZRLC_Net2.exe
+D:\ZRLC_Instructable\Aj_ZRLC_Tweezers\VS2013\Aj_ZRLC_Net2\Aj_ZRLC_Net2\obj\Debug\Aj_ZRLC_Net2.xml
+D:\ZRLC_Instructable\Aj_ZRLC_Tweezers\VS2013\Aj_ZRLC_Net2\Aj_ZRLC_Net2\obj\Debug\Aj_ZRLC_Net2.pdb
